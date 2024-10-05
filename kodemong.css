@@ -1,0 +1,105 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.main-header {
+  background-color: black;
+  height: 397px;
+}
+
+.kode-header {
+  padding: 29px 0 0 64px;
+}
+
+.kode-menu {
+  margin: 2rem 0 0 2rem;
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+.main-heading {
+  padding: 9rem 0 0 33rem;
+  color: aliceblue;
+  font-weight: 400;
+}
+
+.paragraph1 {
+  margin: 10px 0 0 30px;
+  font-weight: 500;
+  color: antiquewhite;
+}
+
+.main-heading1 {
+  font-size: 2.5rem;
+}
+
+.kodemong-cards {
+  height: 1730px;
+  width: 87%;
+  margin-left: 5rem;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cards {
+  width: 356px;
+  height: 400px;
+  margin: 2rem 0 0 0;
+  display: block;
+  text-decoration: none;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgb(205, 204, 204);
+}
+
+.card-images {
+  width: 357px;
+  height: 250px;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-imd-botom-heading {
+  font-weight: 2.4rem;
+  margin: 20px 0 0 20px;
+  color: black;
+}
+
+.card-imd-botom-heading6 {
+  font-weight: 2.4rem;
+  margin: 0 0 0 20px;
+  color: black;
+}
+
+.card-imd-botom-heading11 {
+  font-weight: 2rem;
+  margin: 0 0 0 10px;
+  color: black;
+}
+
+.card-imd-botom-paragraph11 {
+  margin: 7px;
+  color: rgb(66, 66, 66);
+}
+
+.card-imd-botom-paragraph {
+  margin: 30px 0 0 20px;
+  color: rgb(66, 66, 66);
+}
+
+.footer-menu {
+  background-color: black;
+  height: 52px;
+  margin-top: 15px;
+  display: flex;
+}
+
+.footer-name {
+  padding: 1rem 0 0 14rem;
+  color: aliceblue;
+}
+
+.footer-img {
+  width: 3rem;
+}
